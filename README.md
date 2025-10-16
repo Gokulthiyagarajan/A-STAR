@@ -117,3 +117,9 @@ G 0 <br>
 <h2>Sample Output</h2>
 <hr>
 Path found: ['A', 'E', 'D', 'G']
+
+## OUTPUT
+<img width="463" height="385" alt="image" src="https://github.com/user-attachments/assets/9eed1bfe-7a9a-4ed7-87c6-04883571eb98" />
+
+<h2>RESULT :</h2>
+Thus a graph was constructed and implemantation of A star Search for the same graph was done successfully.
